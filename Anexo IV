@@ -1,0 +1,44 @@
+[
+  {
+    "faixa": "1\u00aa faixa",
+    "limite_inf": 0,
+    "limite_sup": 180000.0,
+    "aliquota_nominal": 4.5,
+    "valor_deduzir": 0
+  },
+  {
+    "faixa": "2\u00aa faixa",
+    "limite_inf": 180000.01,
+    "limite_sup": 360000.0,
+    "aliquota_nominal": 9.0,
+    "valor_deduzir": 8100.0
+  },
+  {
+    "faixa": "3\u00aa faixa",
+    "limite_inf": 360000.01,
+    "limite_sup": 720000.0,
+    "aliquota_nominal": 10.2,
+    "valor_deduzir": 12420.0
+  },
+  {
+    "faixa": "4\u00aa faixa",
+    "limite_inf": 720000.01,
+    "limite_sup": 1800000.0,
+    "aliquota_nominal": 14.0,
+    "valor_deduzir": 39780.0
+  },
+  {
+    "faixa": "5\u00aa faixa",
+    "limite_inf": 1800000.01,
+    "limite_sup": 3600000.0,
+    "aliquota_nominal": 22.0,
+    "valor_deduzir": 183780.0
+  },
+  {
+    "faixa": "6\u00aa faixa",
+    "limite_inf": 3600000.01,
+    "limite_sup": 4800000.0,
+    "aliquota_nominal": 33.0,
+    "valor_deduzir": 828000.0
+  }
+]
